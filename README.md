@@ -6,6 +6,7 @@ title: von A-Z
 ## A
 
 ### [Adipositas](a/adipositas.md) 
+### [Allergien](a/allergien.md) 
 
 ## B
 
@@ -18,3 +19,5 @@ title: von A-Z
 ## F
 
 ## ...
+
+### [Adipositas](a/adipositas.md) 

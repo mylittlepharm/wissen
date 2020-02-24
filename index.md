@@ -19,5 +19,3 @@ title: von A-Z
 ## F
 
 ## ...
-
-### [Adipositas](a/adipositas.md) 

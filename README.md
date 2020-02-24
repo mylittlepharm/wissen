@@ -1,4 +1,7 @@
-# von A-Z
+---
+layout: home
+title: von A-Z
+---
 
 ## A
 

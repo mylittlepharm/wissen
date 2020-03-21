@@ -10,26 +10,26 @@
 	
 - Prävention:
   * Studie zur Prävention: PAPS (Prophylaxe-Atopie-Pro-Symbioflor) 2.-7. LM 3x/d auf Zunge → Neurodermitis -50% bei Kdr. von denen 1 Elternteil Allergiker ist, kein Erfolg wenn beide Allergiker sind
-	* Ausschließliches Stillen 4 Monate
-	* Fischkonsum in Gravi und 1. LJ
-	* Kein Babyschwimmen bei Prädisposition, da Harnstoff in Chlorwasser zur Bildung von Trichloramin führt, was die Bronchialschleimhaut reizt
-	* Hyposensibilisierung so früh wie möglich einsetzen, ab 5a möglich
+  * Ausschließliches Stillen 4 Monate
+  * Fischkonsum in Gravi und 1. LJ
+  * Kein Babyschwimmen bei Prädisposition, da Harnstoff in Chlorwasser zur Bildung von Trichloramin führt, was die Bronchialschleimhaut reizt
+  * Hyposensibilisierung so früh wie möglich einsetzen, ab 5a möglich
   * frühe Exposition mit Erdnüssen schützt vor späterer Erdnussallergie
   
 - Typen:
   * Typ 1:
-			§ IgE-vermittelt, innerhalb Sekunden bis Stunden, Histamin, Zytokine, PG, LTs
-			§ Bis hin zur Anaphylaxie
-	* Typ 2:
-			§ IgG und IgM
-			§ Innerhalb Minuten bis Tagen
-	* Typ 3:
-			§ Antikörper-Antigen-Immunkomplexe mit entzündlicher Reaktion und Gewebeschäden
-			§ In Minuten bis Tagen
-			§ Typisch: Vaskulitiden
-	* Typ 4:
-			§ Verzögerte Allergie, frühestens nach 12h
-        z.B. Nickel, Stevens-Johnson-Syndrom, Lyell Syndrom
+    * IgE-vermittelt, innerhalb Sekunden bis Stunden, Histamin, Zytokine, PG, LTs
+    * Bis hin zur Anaphylaxie
+  * Typ 2:
+    * IgG und IgM
+    * Innerhalb Minuten bis Tagen
+  * Typ 3:
+    * Antikörper-Antigen-Immunkomplexe mit entzündlicher Reaktion und Gewebeschäden
+    * In Minuten bis Tagen
+    * Typisch: Vaskulitiden
+  * Typ 4:
+    * Verzögerte Allergie, frühestens nach 12h
+    * z.B. Nickel, Stevens-Johnson-Syndrom, Lyell Syndrom
 
 - Kreuzallergien
 

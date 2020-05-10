@@ -16,7 +16,7 @@
 
         -   gerötetes Trommelfell
 
-        -   Ev Paukenerguss: Fl. Sekretansammlung im Mitelohr
+        -   Ev Paukenerguss: Fl. Sekretansammlung im Mittelohr
 
         -   ev. Ausfluss aus dem Ohr
 
@@ -90,7 +90,7 @@
 
             -   Frühere Komplikationen bei Mittelohrentzündung
 
-            -   Zum AZ/ Klinik bei Schwellung hinter dem Ohr, die das Ohr ev. Abstehen lässt + schlechter Zustand, Mastoiditis = Knochenvorwölbung des Schläfenbeins entzündet, lebensgefählich
+            -   Zum AZ/ Klinik bei Schwellung hinter dem Ohr, die das Ohr ev. Abstehen lässt + schlechter Zustand, Mastoiditis = Knochenvorwölbung des Schläfenbeins entzündet, lebensgefährlich
 
             -   Cave: 40% der Eltern dosieren Antibiotikasäfte falsch
 
@@ -158,7 +158,7 @@
 
         -   Bei Erysipel starke Rötung, Fieber, Schüttelfrost
 
-        -   Bei Gürtelrose starke Schmerzen, ev. Hörminderung, z.T. Lämungen Geischt
+        -   Bei Gürtelrose starke Schmerzen, ev. Hörminderung, z.T. Lähmungen Gesicht
 
     -   Ursachen
 
@@ -183,7 +183,7 @@
 
         -   starker Druckschmerz des Tragus (der Teil der Ohrmuschel, auf den man drückt wenn man sich die Ohren zuhält) bzw. bei Zug am Ohr
 
-        -   Selten: Otitis externa maligna: bei geschwächtem Immunsystem, z.B. Ältere mit Diabetes, Pseudomonaden, kann leicht auf Hinnerven übergehen
+        -   Selten: Otitis externa maligna: bei geschwächtem Immunsystem, z.B. Ältere mit Diabetes, Pseudomonaden, kann leicht auf Hirnnerven übergehen
 
         -   Grippe-Otitis als Komplikation mit Blutblasen im Gehörgang
 

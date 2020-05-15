@@ -20,18 +20,18 @@ layout: default
   * Hyposensibilisierung so früh wie möglich einsetzen, ab 5a möglich
   * frühe Exposition mit Erdnüssen schützt vor späterer Erdnussallergie
   
-- Typen:
-  * Typ 1:
+- Typen
+  * Typ 1
     * IgE-vermittelt, innerhalb Sekunden bis Stunden, Histamin, Zytokine, PG, LTs
     * Bis hin zur Anaphylaxie
-  * Typ 2:
+  * Typ 2
     * IgG und IgM
     * Innerhalb Minuten bis Tagen
-  * Typ 3:
+  * Typ 3
     * Antikörper-Antigen-Immunkomplexe mit entzündlicher Reaktion und Gewebeschäden
     * In Minuten bis Tagen
     * Typisch: Vaskulitiden
-  * Typ 4:
+  * Typ 4
     * Verzögerte Allergie, frühestens nach 12h
     * z.B. Nickel, Stevens-Johnson-Syndrom, Lyell Syndrom
 

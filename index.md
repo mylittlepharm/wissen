@@ -7,7 +7,8 @@ title: von A-Z
 
 ## A
 
-### [Allergien](a/allergien.md) 
+### Allergien
+ - [Allgemeines](a/allergie/allgemeines.md) 
 
 ## B
 
@@ -19,8 +20,11 @@ title: von A-Z
 
 ## F
 
+## H
+
+### HNO
+- [Ohrenschmerzen](h/hno/ohrenschmerzen.md)
+
 ## ...
 
-## O
-
-### [Ohrenschmerzen](o/ohrenschmerzen.md)
+## Z

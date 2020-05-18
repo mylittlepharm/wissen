@@ -122,8 +122,7 @@
 
         -   bei defektem Trommelfell oder eingesetztem Paukenröhrchen auch OT von außen sinnvoll! (z.B. Cipro + GC)
 
-    -   3-4 Wochen nach Abheilen zur Kontrolle + Hörtest\
-        >  
+    -   3-4 Wochen nach Abheilen zur Kontrolle + Hörtest
 
 -   Paukenerguss
 
@@ -133,8 +132,7 @@
 
         -   Druckgefühl
 
-        -   Minderhörigkeit\
-            >  
+        -   Minderhörigkeit
 
 -   Mumps
 
@@ -145,8 +143,6 @@
 -   Basaliom am Ohr
 
     -   Nicht-schmerzhafte Knötchen
-
->  
 
 -   Entzündung der Ohrmuschel / Ohrmuschelpierichondritis
 
@@ -172,8 +168,7 @@
 
         -   Systemische Antibiose
 
-        -   Ev. Fiebersenkung\
-            >  
+        -   Ev. Fiebersenkung
 
 -   Otitis externa
 
@@ -205,8 +200,7 @@
 
         -   Cipro/Bacitracin/Polymyxin z.T. + GC
 
-        -   Pilzinfektion: Ölige Clotrimazol-OHT NRF 16.4\
-            >  
+        -   Pilzinfektion: Ölige Clotrimazol-OHT NRF 16.4
 
     -   Vorbeugen
 
@@ -216,8 +210,7 @@
 
         -   nach Schwimmen Kopf schräg halten, am Ohr ziehen u. Wasser abfließen lassen
 
-        -   Auridrop®, Gelobacin®\
-            >  
+        -   Auridrop®, Gelobacin®
 
 -   Verletzung Trommelfell
 
@@ -231,8 +224,7 @@
 
     -   können auch Grund f. Ohrenschmerzen sein
 
-    -   Reizung d. Kiefergelenks → Knacken beim Bewegen d. Kiefers, bis zu Tinnitus, Schwindel, Druckschmerz, Zunahme beim Kauen\
-        >  
+    -   Reizung d. Kiefergelenks → Knacken beim Bewegen d. Kiefers, bis zu Tinnitus, Schwindel, Druckschmerz, Zunahme beim Kauen
 
 -   Tipps OHT:
 

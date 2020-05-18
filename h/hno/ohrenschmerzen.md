@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+# Ohrenschmerzen
+
 -   Mittelohrentzündung (Otitis media): siehe auch bakterielle Infektionen!
 
     -   Ursache: bakteriell mgl, aber meist viral

@@ -45,4 +45,4 @@ layout: default
 | Kreuzallergie möglich mit Nüssen:    	| Haselnuss, Mandel                                 	|                                                                   	|                                                            	| Sonnenblumenkerne 	| Sonnenblumenkerne                                	| Erdnuss, Haselnuss, Walnuss, Cashewnuss                                      	|                               	|
 | Kreuzallergie möglich mit Sonstigem: 	|                                                   	| Gewürze und Kräuter                                               	| Fischfutter, Garnelen, Hummer, Krabben, Muscheln, Shrimps  	| Roggenmehl        	| Lupinen, Klee, Tragent, Gummi arabicum, Lakritze 	| Ficus benjaminus                                                             	| Latex, Roggen- und Weizenmehl 	|
 
-  * Obst ist gekocht/ gebacken besser verträglich
+  * Obst ist gekocht / gebacken besser verträglich

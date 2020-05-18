@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Allergien
-
 ## Allgemeines
 
 - Prävalenz↑

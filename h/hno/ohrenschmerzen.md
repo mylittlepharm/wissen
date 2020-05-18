@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Ohrenschmerzen
+## Ohrenschmerzen
 
 -   Mittelohrentzündung (Otitis media): siehe auch bakterielle Infektionen!
 

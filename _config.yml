@@ -1,4 +1,7 @@
 theme: minima
 
+header_pages:
+  - index.md
+
 github_username: mylittlepharm
 email: info@mylittlepharm.de

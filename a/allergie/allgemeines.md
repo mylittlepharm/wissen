@@ -11,15 +11,13 @@ layout: default
 - Hygiene-Hypothese als Ursache?
 	
 - Pollen werden über längere Zeit ausgeschüttet (Klimawandel), enthalten mehr Allergene u. werden aggressiver z.B. durch Feinstaub: polycycl. aromat. KW heften sich an Pollenoberfläche → Produktion v. pollenassoziierten Lipidmediatoren (PALM), die die Entzündungsreaktion an Schleimhäuten verstärken
-	
-- Prävention:
+- Prävention
   * Studie zur Prävention: PAPS (Prophylaxe-Atopie-Pro-Symbioflor) 2.-7. LM 3x/d auf Zunge → Neurodermitis -50% bei Kdr. von denen 1 Elternteil Allergiker ist, kein Erfolg wenn beide Allergiker sind
   * Ausschließliches Stillen 4 Monate
   * Fischkonsum in Gravi und 1. LJ
   * Kein Babyschwimmen bei Prädisposition, da Harnstoff in Chlorwasser zur Bildung von Trichloramin führt, was die Bronchialschleimhaut reizt
   * Hyposensibilisierung so früh wie möglich einsetzen, ab 5a möglich
   * frühe Exposition mit Erdnüssen schützt vor späterer Erdnussallergie
-  
 - Typen
   * Typ 1
     * IgE-vermittelt, innerhalb Sekunden bis Stunden, Histamin, Zytokine, PG, LTs

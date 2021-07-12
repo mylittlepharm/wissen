@@ -5,6 +5,8 @@ title: von A-Z
 
 # Meine kleine Wissensdatenbank
 
+[hier geht's zu meinen allgemein genutzten Abkürzungen](abbreviations.md).
+
 ## A
 
 ### Allergien
